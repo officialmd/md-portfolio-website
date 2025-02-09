@@ -1,3 +1,3 @@
 ## md-portfolio Website
 
-Click here **[Mohamad Deifallah](https://officialmd.github.io/md-portfolio-website/)**
+Click **[here](https://officialmd.github.io/md-portfolio-website/)** to check out the website!
