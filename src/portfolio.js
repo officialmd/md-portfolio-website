@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Mohamad Deifallah',
-  resume: '/MOHAMAD_DEIFALLAH_SWE_RESUME.pdf',
+  resume: 'https://officialmd.github.io/md-portfolio-website/mohamaddeifallahresume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/mohamad-deifallah/',
     github: 'https://github.com/officialmd',
