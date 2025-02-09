@@ -1,0 +1,19 @@
+.vertical-timeline-element-content {
+  background: #23283e;
+  box-shadow: var(--shadow);
+}
+
+.vertical-timeline-element-arrow {
+  background: #23283e;
+}
+
+.date {
+  color: #cdcdff;
+}
+
+.experience__stack {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+  margin: 1.2em 0;
+}
