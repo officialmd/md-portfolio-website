@@ -35,28 +35,31 @@ const About = () => {
         </a>
         
         )}
-
         {social && (
           <>
-            {social.github && (
-              <a
-                href={social.github}
-                aria-label='github'
-                className='link link--icon'
-              >
-                <GitHubIcon />
+          {social.github && (
+            <a
+            href={social.github}
+            aria-label='github'
+            className='link link--icon'
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+              <GitHubIcon />
               </a>
             )}
-
-            {social.linkedin && (
-              <a
-                href={social.linkedin}
-                aria-label='linkedin'
-                className='link link--icon'
-              >
-                <LinkedInIcon />
-              </a>
-            )}
+            
+        {social.linkedin && (
+          <a
+          href={social.linkedin}
+          aria-label='linkedin'
+          className='link link--icon'
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+            <LinkedInIcon />
+            </a>
+          )}
           </>
         )}
       </div>

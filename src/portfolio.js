@@ -35,6 +35,13 @@ const experiences = [
 
 const projects = [
   {
+    name: 'EchoRoam',
+    description:
+      'Built a prototype of an autonomous rescue vehicle using QNX RTOS on Rasberry Pi 4 and ultrasonic sensors to detect obstacles and dynamically map safe routes using a real-time data logging system',
+      stack: ['C,',  'QNX RTOS, ', 'Javascript, ', 'Docker, ','HTML, ', 'CSS'],
+      sourceCode: 'https://devpost.com/software/echoroam',
+    },
+  {
     name: 'D.U.C.K.I Research Project',
     description:
       'Developed “D.U.C.K.I.” to deliver tailored AI-driven learning experiences featuring voice input, mouth movement analysis, and interactive feedback.',
@@ -68,7 +75,9 @@ const skills = [
   'SQL',
   'Flutter',
   'Linux',
-  'NodeJS'
+  'QNX RTOS',
+  'NodeJS',
+  'Docker'
 ]
 
 const contact = {
