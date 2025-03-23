@@ -1,3 +1,4 @@
+import React from 'react'
 import WorkIcon from '@material-ui/icons/Work'
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component'
 import 'react-vertical-timeline-component/style.min.css'
