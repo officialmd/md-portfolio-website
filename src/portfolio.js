@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Mohamad Deifallah',
-  resume: `${process.env.PUBLIC_URL}/MOHAMAD_DEIFALLAH.pdf`, // Corrected file reference
+  resume: `${process.env.PUBLIC_URL}/MOHAMAD_DEIFALLAH.pdf`,
   social: {
     linkedin: 'https://www.linkedin.com/in/mohamad-deifallah/',
     github: 'https://github.com/officialmd',
