@@ -1,3 +1,4 @@
+import React from 'react';
 import uniqid from 'uniqid'
 import { experiences } from '../../portfolio'
 import ExperienceContainer from '../ExperienceContainer/ExperienceContainer'
