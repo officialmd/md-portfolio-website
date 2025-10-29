@@ -7,7 +7,7 @@ const about = {
   name: 'Mohamad Deifallah',
   resume: `${process.env.PUBLIC_URL}/MOHAMAD_DEIFALLAH.pdf`,
   social: {
-    linkedin: 'https://www.linkedin.com/in/mohamad-deifallah/',
+    linkedin: 'https://www.linkedin.com/in/mohamaddeifallah/',
     github: 'https://github.com/officialmd',
   },
 }
